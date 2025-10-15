@@ -1,8 +1,8 @@
 
 <?php
 // supabase.php
-$supabase_url = "https://YOUR_PROJECT_ID.supabase.co";
-$supabase_key = "YOUR_ANON_KEY";
+$supabase_url = "https://odkojjgidfswmsaalany.supabase.co";
+$supabase_key = "sb_publishable_7QPcwrIQX23KpPgjRkeLZw_odh43IB7";
 $headers = [
     "Content-Type: application/json",
     "apikey: $supabase_key",
